@@ -1,0 +1,40 @@
+{
+  "name": "source",
+  "version": "1.0.0",
+  "description": "Source is a dynamic web application designed to empower consumers with comprehensive insights into the sustainability practices and ethical standards of products and companies. By aggregating and analyzing data across various metrics, Source helps users make informed purchasing decisions aligned with their values.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sourceappinfo/Source.git"
+  },
+  "keywords": [
+    "keywords:",
+    "sustainability",
+    "ethics",
+    "eco-friendly",
+    "product-information",
+    "corporate-responsibility",
+    "green-products",
+    "consumer-awareness",
+    "ethical-consumption"
+  ],
+  "author": "N. Cabrera",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/sourceappinfo/Source/issues"
+  },
+  "homepage": "https://github.com/sourceappinfo/Source#readme",
+  "dependencies": {
+    "@react-native-community/masked-view": "^0.1.11",
+    "@react-navigation/native": "^6.1.14",
+    "@react-navigation/stack": "^6.3.25",
+    "react-native": "^0.73.5",
+    "react-native-gesture-handler": "^2.15.0",
+    "react-native-reanimated": "^3.7.2",
+    "react-native-safe-area-context": "^4.9.0",
+    "react-native-screens": "^3.29.0"
+  }
+}
